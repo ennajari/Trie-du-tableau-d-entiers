@@ -1,0 +1,14 @@
+Tri de Tableau
+Ce programme Java propose une application de tri de tableau. L'utilisateur peut saisir un tableau d'entiers, et le programme utilise la méthode de tri Arrays.sort() pour trier les éléments du tableau de manière croissante. Les éléments triés sont ensuite affichés à l'écran.
+
+Fonctionnalités
+Saisie d'un tableau d'entiers à partir de la console.
+Tri des éléments du tableau de manière croissante.
+Affichage des éléments triés.
+Comment Utiliser
+Exécutez le programme en utilisant javac Trie_du_tableau.java pour compiler et java Trie_du_tableau pour exécuter.
+Suivez les instructions pour saisir les éléments du tableau.
+Le programme affiche les éléments du tableau triés de manière croissante.
+Auteur
+Ennajari
+N'hésitez pas à contribuer en ajoutant de nouvelles fonctionnalités, des améliorations ou des corrections de bugs. Vos retours sont les bienvenus !
