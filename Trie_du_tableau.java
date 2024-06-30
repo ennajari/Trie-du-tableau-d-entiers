@@ -12,7 +12,6 @@ public class Trie_du_tableau {
             T[i] = sc.nextInt();
         }
         Arrays.sort(T); // Sorting the temp array
-
         System.out.println("-------------------------Sorted elements:---------------------------");
         for (int j = 0; j < sizeT; j++) {
             System.out.println(T[j]);
