@@ -9,7 +9,7 @@ public class Trie_du_tableau {
         for (int i = 0; i < sizeT; i++) {
             System.out.println("Taper element " + (i + 1));
             T[i] = sc.nextInt();
-        }
+        } 
         Arrays.sort(T); // Sorting the temp array
         System.out.println("-------------------------Sorted elements:---------------------------");
         for (int j = 0; j < sizeT; j++) {
