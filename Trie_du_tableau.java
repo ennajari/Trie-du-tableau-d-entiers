@@ -6,7 +6,6 @@ public class Trie_du_tableau {
         System.out.println("Combien de nombres vous pouvez Entrer ? ");
         int sizeT = sc.nextInt();
         int[] T = new int[sizeT];
-
         for (int i = 0; i < sizeT; i++) {
             System.out.println("Taper element " + (i + 1));
             T[i] = sc.nextInt();
